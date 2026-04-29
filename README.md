@@ -1,3 +1,4 @@
+Praca w zespole z Patryk T.
 # Projekt-C-
 Symulator diety, pomoc w gubieniu kilogramów
 
